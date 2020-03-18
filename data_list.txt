@@ -1,5 +1,5 @@
 dataset_1  https://archive.ics.uci.edu/ml/datasets/Adult
-dataset_2
+dataset_2  https://www.kaggle.com/c/howpop-habrahabr-favs
 dataset_3
 dataset_4
 dataset_5
