@@ -1,10 +1,10 @@
-dataset_1  https://archive.ics.uci.edu/ml/datasets/Adult
-dataset_2  https://www.kaggle.com/c/howpop-habrahabr-favs
-dataset_3  http://archive.ics.uci.edu/ml/machine-learning-databases/adult/
-dataset_4
-dataset_5
-dataset_6
-dataset_7
-dataset_8
-dataset_9
-dataset_10
+dataset_1	https://archive.ics.uci.edu/ml/datasets/Adult
+dataset_2	https://www.kaggle.com/c/howpop-habrahabr-favs
+dataset_3	http://archive.ics.uci.edu/ml/machine-learning-databases/adult/
+dataset_4	
+dataset_5	
+dataset_6	
+dataset_7	
+dataset_8	
+dataset_9	
+dataset_10	
